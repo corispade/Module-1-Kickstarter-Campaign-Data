@@ -5,7 +5,7 @@ Module 1 - Working with Kickstarter Campaign Data to Perform Analysis and Discov
 
 ### **Purpose of Project:**
 
-Louise wants to start a crowdfunding campaign for her new play "Fever". She has an estimated budget of over 10k. 
+Louise wants to start a crowdfunding campaign for her new play "Fever". She has an estimated budget of over $10,000. 
 
 We are using the Kickstarter Crowd Funding dataset to visualize past  theater and play campaign outcomes to determine the best launch date and goal funding amount for Louise to launch a successful campaign for her new play "Fever".
 
@@ -23,7 +23,7 @@ I added a column for percentage successful, percentage failed and percentage can
 
 We created a chart on a separate tab to analyze the play outcomes based on the dollar goal amount. We categorized goal amount into ranges to determine outcome vs goal amount by range. We then calculated percentage of success, failure and cancelation based on the dollar goal amount. We created a line chart to visualize the outcomes. Reference [Play_Outcomes_vs_Goals](https://github.com/corispade/Module-1-Kickstarter-Campaign-Data/blob/main/Resources/Play_Outcomes_vs_Goals.png).
 
-When reviewing the data, the percentage of successful and failed play campaigns varied by goal funding amount. No plays campaigns were canceled. The most successful play campaigns had a goal funding amount less than $15000. The least successful and most failed campaigns had goal funding amounts $40000 to $50000.
+When reviewing the data, the percentage of successful and failed play campaigns varied by goal funding amount. No plays campaigns were canceled. The most successful play campaigns had a goal funding amount less than $15,000. The least successful and most failed campaigns had goal funding amounts $40,000 to $50,000.
 
 ### **Challenges Encountered During Analysis:**
 
@@ -40,9 +40,9 @@ I came across challenges with formatting. I created a table from the existing da
 
 ### **Conclusions Drawn About the *Play Outcomes Based on Goals*:**
 
-- Louise's estimated budget for "Fever" is over $10000. Based on the data, the most successful campaings had a goal funding amount less than $15000. There is a greater rate of success, the lower the cost of the goal funding amount. 
+- Louise's estimated budget for "Fever" is over $10,000. Based on the data, the most successful campaings had a goal funding amount less than $15,000. There is a greater rate of success, the lower the cost of the goal funding amount. 
 
-- For Louise to have the most success, I would suggest she does not exceed a $10000 budget. 
+- For Louise to have the most success, I would suggest she does not exceed a $10,000 budget. 
 
 ### **Limitations of this Dataset:**
 
